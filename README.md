@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roni-Raihan
-- 👀 I’m interested in animation and 3d model 3D
+- 👀 I’m interested in 3D Animation
 
 <!---
 Roni-Raihan/Roni-Raihan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
